@@ -1,0 +1,20 @@
+{
+  "name": "Lattafa Eclaire",
+  "description": "A vanilla perfume",
+  "price": 4500,
+  "stock_quantity": 20,
+  "image_url": null,
+  "category": {
+    "name": "Perfume"
+  }
+}
+
+
+
+URL: http://127.0.0.1:8000/api/products/
+
+Headers:
+
+Authorization: Bearer your_access_token
+
+Content-Type: application/json
